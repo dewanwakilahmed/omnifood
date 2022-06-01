@@ -145,7 +145,7 @@
 
   .nav-open .main-nav {
     opacity: 1;
-    point-events: auto;
+    pointer-events: auto;
     visibility: visible;
     transform: translateX(0);
   }
